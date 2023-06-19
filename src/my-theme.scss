@@ -1,0 +1,16 @@
+@use "@angular/material" as mat;
+
+@include mat.core();
+
+$my-midnight-blue-palette: (
+  50: #f6f8fd,
+  100: #eef0f5,
+  200: #e3e6ea,
+  300: #d2d5d9,
+  400: #aeb0b5,
+  500: #8e9094,
+  600: #66686c,
+  700: #535559,
+  800: #35373a,
+  900: #15171a,
+);
